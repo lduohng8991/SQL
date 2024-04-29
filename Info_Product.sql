@@ -1,7 +1,7 @@
 ﻿USE [DataEntry]
 GO
 
-/****** Object:  View [dbo].[code_translate_template]    Script Date: 30-Nov-23 4:22:36 PM ******/
+
 SET ANSI_NULLS ON
 GO
 
