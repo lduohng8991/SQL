@@ -1,1 +1,1 @@
-TO BE CONTINUED
+Methods determined in SQL.
