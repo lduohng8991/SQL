@@ -1,1 +1,1 @@
-Methods determined in SQL.
+Methods determined though times.
